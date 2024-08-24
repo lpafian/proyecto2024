@@ -1,0 +1,79 @@
+.navbar-brand{
+    font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet MS, sans-serif, Arial, Helvetica, sans-serif
+}
+
+.navbar{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #051b54;
+    color: black;
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.btn{
+    background-color: #FFFFFF33;
+    color: white;
+    border-radius: 30px;
+}
+.card{
+    background-color: #62DAD3;
+}
+.refe{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.imagen{
+    border-radius: 2%;
+    width: 450px;
+    margin-left: 165px;
+}
+.list-group-item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #051b54;
+}
+.nav-item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #051b54;
+}
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #051b54;
+}
+.fechaida{
+    display: flexbox;
+    border-radius: 3%;
+
+}
+.row{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #051b54;
+    
+    
+    
+}
+.btn2{
+    
+    height: 36px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+
+  
+   
+
+
+
+    
+
+
+
+
+
+
+    
+    

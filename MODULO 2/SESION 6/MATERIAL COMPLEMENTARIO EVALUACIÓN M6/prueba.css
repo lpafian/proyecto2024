@@ -1,0 +1,13 @@
+.contenedor{
+    background-color: aqua;
+    display: flex;
+    justify-content: right;
+    
+}
+.imagen{
+    width: 450px;
+    margin-left: 1250px;
+
+
+    
+}
